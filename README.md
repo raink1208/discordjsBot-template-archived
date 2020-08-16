@@ -1,0 +1,2 @@
+# discordjsBot-template
+discordjsのbotを作るときのテンプレート
