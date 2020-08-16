@@ -3,7 +3,7 @@ const { config } = require("dotenv")
 
 const client = new Client();
 
-const prefix = "" //コマンドの最初の文字
+const prefix = "_" //コマンドの最初の文字
 
 config({
     path: __dirname + "/.env"
